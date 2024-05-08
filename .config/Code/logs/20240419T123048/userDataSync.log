@@ -1,0 +1,27 @@
+2024-04-19 12:30:49.846 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-04-19 12:30:49.846 [info] Auto Sync is enabled.
+2024-04-19 12:30:49.846 [info] Auto Sync: Suspended until auth token is available.
+2024-04-19 12:30:50.099 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/extensions
+2024-04-19 12:30:50.409 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/globalState
+2024-04-19 12:30:50.606 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/keybindings
+2024-04-19 12:30:50.611 [info] Auto Sync: Triggered by Interval
+2024-04-19 12:30:50.612 [info] Sync started.
+2024-04-19 12:30:50.694 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/profiles
+2024-04-19 12:30:50.731 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/settings
+2024-04-19 12:30:50.731 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/snippets
+2024-04-19 12:30:50.732 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/tasks
+2024-04-19 12:30:51.041 [info] Settings: Last sync resource does not exist locally.
+2024-04-19 12:30:51.165 [info] Settings: No changes found during synchronizing settings.
+2024-04-19 12:30:51.168 [info] Keybindings: Last sync resource does not exist locally.
+2024-04-19 12:30:51.260 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-19 12:30:51.261 [info] Snippets: Last sync resource does not exist locally.
+2024-04-19 12:30:51.350 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-19 12:30:51.352 [info] Tasks: Last sync resource does not exist locally.
+2024-04-19 12:30:51.452 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-19 12:30:51.453 [info] GlobalState: Last sync resource does not exist locally.
+2024-04-19 12:30:51.618 [info] GlobalState: No changes found during synchronizing ui state.
+2024-04-19 12:30:51.620 [info] Extensions: Last sync resource does not exist locally.
+2024-04-19 12:30:51.820 [info] Extensions: No changes found during synchronizing extensions.
+2024-04-19 12:30:51.823 [info] Profiles: Last sync resource does not exist locally.
+2024-04-19 12:30:51.907 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-19 12:30:51.909 [info] Sync done. Took 1297ms

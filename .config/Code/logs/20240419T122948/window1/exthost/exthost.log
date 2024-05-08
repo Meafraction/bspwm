@@ -1,0 +1,17 @@
+2024-04-19 12:29:50.278 [info] Extension host with pid 24510 started
+2024-04-19 12:29:50.278 [info] Skipping acquiring lock for /home/kemer/.config/Code/User/workspaceStorage/b57b8e3782a00beb104a7dc891f99cc0.
+2024-04-19 12:29:50.348 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-19 12:29:50.349 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-04-19 12:29:50.595 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-04-19 12:29:50.632 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 12:29:50.633 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 12:29:50.937 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-19 12:29:50.999 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-19 12:29:50.999 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-19 12:29:51.086 [info] Eager extensions activated
+2024-04-19 12:29:51.108 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-19 12:29:51.108 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-19 12:29:51.573 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-19 12:29:51.573 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-19 12:30:39.065 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-19 12:30:39.102 [info] Extension host with pid 24510 exiting with code 0

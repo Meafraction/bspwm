@@ -1,0 +1,12 @@
+2024-04-19 12:30:49.567 [info] Started local extension host with pid 24841.
+2024-04-19 12:30:52.396 [info] [perf] Render performance baseline is 24ms
+2024-04-19 12:30:53.069 [error] Request textDocument/codeAction failed with message: index is out of range: Error: Request textDocument/codeAction failed with message: index is out of range
+	at ae (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2306827)
+	at oe (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2304787)
+	at Immediate.<anonymous> (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2301081)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-04-19 12:30:58.622 [error] Request textDocument/codeAction failed with message: index is out of range: Error: Request textDocument/codeAction failed with message: index is out of range
+	at ae (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2306827)
+	at oe (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2304787)
+	at Immediate.<anonymous> (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2301081)
+	at process.processImmediate (node:internal/timers:476:21)

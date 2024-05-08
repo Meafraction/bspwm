@@ -1,0 +1,15 @@
+2024-04-19 12:29:50.485 [info] Эксперимент «pythonaacf» активен
+2024-04-19 12:29:50.485 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-04-19 12:29:50.485 [info] Эксперимент «pythonREPLSmartSend» активен
+2024-04-19 12:29:50.485 [info] Эксперимент «pythonSurveyNotification» активен
+2024-04-19 12:29:50.485 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-04-19 12:29:50.485 [info] Эксперимент «pythonTestAdapter» активен
+2024-04-19 12:29:50.582 [info] Default formatter is set to null for workspace /home/kemer/MyFiles
+2024-04-19 12:29:50.593 [info] Test server listening.
+2024-04-19 12:29:50.596 [info] Путь к интерпретатору Python: /bin/python
+2024-04-19 12:29:50.632 [info] > pyenv which python
+2024-04-19 12:29:50.632 [info] cwd: .
+2024-04-19 12:29:51.967 [info] Запуск языкового сервера Pylance.
+2024-04-19 12:30:14.284 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:30:28.384 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:30:38.080 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/main.py

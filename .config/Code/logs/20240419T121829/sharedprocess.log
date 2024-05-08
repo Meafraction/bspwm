@@ -1,0 +1,72 @@
+2024-04-19 12:18:31.772 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kemer/.vscode/extensions
+2024-04-19 12:18:31.868 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/kemer/.vscode/extensions Unable to create file 'vscode-userdata:/home/kemer/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-04-19 12:18:31.868 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kemer/.vscode/extensions
+2024-04-19 12:20:08.565 [info] Getting Manifest... sdras.night-owl
+2024-04-19 12:20:08.565 [info] Getting Manifest... ms-python.python
+2024-04-19 12:20:08.566 [info] Getting Manifest... ms-python.debugpy
+2024-04-19 12:20:08.566 [info] Getting Manifest... ms-python.vscode-pylance
+2024-04-19 12:20:08.909 [info] Getting Manifest... ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:09.004 [info] Installing extension: ms-python.vscode-pylance
+2024-04-19 12:20:09.004 [info] Installing extension: ms-python.python
+2024-04-19 12:20:09.004 [info] Installing extension: ms-python.debugpy
+2024-04-19 12:20:09.004 [info] Installing extension: sdras.night-owl
+2024-04-19 12:20:09.005 [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:09.005 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2024-04-19 12:20:09.005 [info] Installing the extension without checking dependencies and pack ms-python.python
+2024-04-19 12:20:09.005 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2024-04-19 12:20:09.005 [info] Installing the extension without checking dependencies and pack sdras.night-owl
+2024-04-19 12:20:09.005 [info] Installing the extension without checking dependencies and pack ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:10.679 [warning] Extension signature verification failed with error 'UnknownError': sdras.night-owl
+2024-04-19 12:20:10.719 [warning] Extension signature verification failed with error 'UnknownError': ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:10.755 [info] Extracted extension to file:///home/kemer/.vscode/extensions/sdras.night-owl-2.0.1: sdras.night-owl
+2024-04-19 12:20:10.761 [info] Renamed to /home/kemer/.vscode/extensions/sdras.night-owl-2.0.1
+2024-04-19 12:20:10.763 [info] Extracting extension completed. sdras.night-owl
+2024-04-19 12:20:10.799 [info] Extracted extension to file:///home/kemer/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.88.2024041009: ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:10.806 [info] Renamed to /home/kemer/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.88.2024041009
+2024-04-19 12:20:10.807 [info] Extracting extension completed. ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:10.817 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:10.859 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-19 12:20:12.932 [warning] Extension signature verification failed with error 'UnknownError': ms-python.debugpy
+2024-04-19 12:20:13.147 [info] Extracted extension to file:///home/kemer/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64: ms-python.debugpy
+2024-04-19 12:20:13.157 [info] Renamed to /home/kemer/.vscode/extensions/ms-python.debugpy-2024.4.0-linux-x64
+2024-04-19 12:20:13.160 [info] Extracting extension completed. ms-python.debugpy
+2024-04-19 12:20:13.241 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-19 12:20:13.552 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-04-19 12:20:13.985 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2024-04-19 12:20:15.646 [info] Extracted extension to file:///home/kemer/.vscode/extensions/ms-python.python-2024.4.1: ms-python.python
+2024-04-19 12:20:15.654 [info] Renamed to /home/kemer/.vscode/extensions/ms-python.python-2024.4.1
+2024-04-19 12:20:15.659 [info] Extracting extension completed. ms-python.python
+2024-04-19 12:20:15.741 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)
+2024-04-19 12:20:17.644 [info] Extracted extension to file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1: ms-python.vscode-pylance
+2024-04-19 12:20:17.655 [info] Renamed to /home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1
+2024-04-19 12:20:17.658 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-04-19 12:20:17.671 [info] Extension installed successfully: sdras.night-owl
+2024-04-19 12:20:17.671 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru
+2024-04-19 12:20:17.671 [info] Extension installed successfully: ms-python.debugpy
+2024-04-19 12:20:17.671 [info] Extension installed successfully: ms-python.python
+2024-04-19 12:20:17.671 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-04-19 12:20:17.757 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kemer/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30080)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30195)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36500)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:28946)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16092)
+    at async K.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:108402)

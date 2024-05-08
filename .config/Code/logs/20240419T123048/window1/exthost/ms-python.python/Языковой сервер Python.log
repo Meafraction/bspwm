@@ -1,0 +1,21 @@
+2024-04-19 12:30:50.986 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-19 12:30:51.499 [info] [Info  - 12:30:51 PM] (24923) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-19 12:30:51.499 [info] [Info  - 12:30:51 PM] (24923) Server root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-19 12:30:51.499 [info] [Info  - 12:30:51 PM] (24923) Starting service instance "MyFiles"
+2024-04-19 12:30:51.531 [info] [Info  - 12:30:51 PM] (24923) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:30:51.531 [info] [Info  - 12:30:51 PM] (24923) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:30:51.553 [info] [Info  - 12:30:51 PM] (24923) Assuming Python version 3.11.8.final.0
+2024-04-19 12:30:51.596 [info] [Info  - 12:30:51 PM] (24923) Found 1 source file
+2024-04-19 12:30:51.950 [info] [Info  - 12:30:51 PM] (24923) Background analysis(1) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-19 12:30:51.953 [info] [Info  - 12:30:51 PM] (24923) Background analysis(1) started
+2024-04-19 12:30:52.073 [info] [Info  - 12:30:52 PM] (24923) Indexer background runner(2) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:30:52.073 [info] [Info  - 12:30:52 PM] (24923) Indexing(2) started
+2024-04-19 12:30:52.377 [info] [Info  - 12:30:52 PM] (24923) scanned(2) 21 files over 1 exec env
+2024-04-19 12:30:52.978 [info] [Info  - 12:30:52 PM] (24923) indexed(2) 4 files over 1 exec env
+2024-04-19 12:30:53.024 [info] [Info  - 12:30:53 PM] (24923) Indexing finished(2).
+2024-04-19 12:30:53.067 [info] [Error - 12:30:53 PM] Request textDocument/codeAction failed.
+2024-04-19 12:30:53.067 [info]   Message: Request textDocument/codeAction failed with message: index is out of range
+  Code: -32603 
+2024-04-19 12:30:58.620 [info] [Error - 12:30:58 PM] Request textDocument/codeAction failed.
+2024-04-19 12:30:58.620 [info]   Message: Request textDocument/codeAction failed with message: index is out of range
+  Code: -32603 

@@ -1,0 +1,45 @@
+2024-04-19 12:23:04.839 [info] Эксперимент «pythonaacf» активен
+2024-04-19 12:23:04.840 [info] Эксперимент «pythonRecommendTensorboardExt» активен
+2024-04-19 12:23:04.840 [info] Эксперимент «pythonREPLSmartSend» активен
+2024-04-19 12:23:04.840 [info] Эксперимент «pythonSurveyNotification» активен
+2024-04-19 12:23:04.840 [info] Эксперимент «pythonTerminalEnvVarActivation» активен
+2024-04-19 12:23:04.840 [info] Эксперимент «pythonTestAdapter» активен
+2024-04-19 12:23:04.876 [info] Default formatter is set to null for workspace /home/kemer/MyFiles
+2024-04-19 12:23:04.899 [info] Test server listening.
+2024-04-19 12:23:04.907 [info] > conda info --json
+2024-04-19 12:23:04.913 [info] > hatch env show --json
+2024-04-19 12:23:04.913 [info] cwd: .
+2024-04-19 12:23:05.242 [info] > pyenv which python
+2024-04-19 12:23:05.243 [info] cwd: .
+2024-04-19 12:23:05.312 [info] Found: /bin/python --> /bin/python3.11
+2024-04-19 12:23:05.314 [info] Found: /bin/python3 --> /bin/python3.11
+2024-04-19 12:23:05.314 [info] Found: /bin/python3.11 --> /bin/python3.11
+2024-04-19 12:23:05.350 [info] Found: /sbin/python --> /sbin/python3.11
+2024-04-19 12:23:05.350 [info] Found: /sbin/python3 --> /sbin/python3.11
+2024-04-19 12:23:05.351 [info] Found: /sbin/python3.11 --> /sbin/python3.11
+2024-04-19 12:23:05.357 [info] Found: /usr/bin/python --> /usr/bin/python3.11
+2024-04-19 12:23:05.357 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2024-04-19 12:23:05.357 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2024-04-19 12:23:05.373 [info] Found: /usr/sbin/python --> /usr/sbin/python3.11
+2024-04-19 12:23:05.373 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.11
+2024-04-19 12:23:05.373 [info] Found: /usr/sbin/python3.11 --> /usr/sbin/python3.11
+2024-04-19 12:23:05.382 [info] > /bin/python -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-19 12:23:05.390 [info] > /sbin/python -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-19 12:23:05.419 [info] > /usr/bin/python -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-19 12:23:05.424 [info] > /usr/sbin/python -I ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-19 12:23:05.464 [info] Путь к интерпретатору Python: /bin/python
+2024-04-19 12:23:06.582 [info] Запуск языкового сервера Pylance.
+2024-04-19 12:24:11.163 [info] Discover tests for workspace name: undefined - uri: /home/kemer/.config/Code/User/settings.json
+2024-04-19 12:24:26.166 [info] Discover tests for workspace name: undefined - uri: /home/kemer/.config/Code/User/settings.json
+2024-04-19 12:24:34.511 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/main.py
+2024-04-19 12:24:57.739 [info] Discover tests for workspace name: undefined - uri: /home/kemer/.config/Code/User/settings.json
+2024-04-19 12:24:59.501 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/main.py
+2024-04-19 12:25:48.797 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:25:50.849 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:25:52.289 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:26:22.987 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:26:27.219 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:26:36.911 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:26:39.207 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/.vscode/settings.json
+2024-04-19 12:29:39.025 [info] Discover tests for workspace name: undefined - uri: /home/kemer/.config/Code/User/settings.json
+2024-04-19 12:29:41.901 [info] Discover tests for workspace name: MyFiles - uri: /home/kemer/MyFiles/main.py

@@ -1,0 +1,73 @@
+2024-04-19 12:18:31.728 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-04-19 12:18:31.728 [info] Auto Sync is disabled.
+2024-04-19 12:20:05.099 [info] Sync started.
+2024-04-19 12:20:05.612 [info] Did reset the local sync state.
+2024-04-19 12:20:05.622 [info] Settings: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:05.622 [info] Settings: Last sync data state does not exist.
+2024-04-19 12:20:05.731 [info] Settings: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:05.732 [info] Settings: Last sync data state does not exist.
+2024-04-19 12:20:05.867 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:05.867 [info] GlobalState: Last sync data state does not exist.
+2024-04-19 12:20:05.874 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:05.875 [info] Keybindings: Last sync data state does not exist.
+2024-04-19 12:20:06.030 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.030 [info] Snippets: Last sync data state does not exist.
+2024-04-19 12:20:06.173 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.173 [info] Tasks: Last sync data state does not exist.
+2024-04-19 12:20:06.271 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.271 [info] GlobalState: Last sync data state does not exist.
+2024-04-19 12:20:06.483 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.483 [info] Extensions: Last sync data state does not exist.
+2024-04-19 12:20:06.723 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.723 [info] Profiles: Last sync data state does not exist.
+2024-04-19 12:20:06.810 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.810 [info] Profiles: Last sync data state does not exist.
+2024-04-19 12:20:06.828 [info] Settings: Updated local settings
+2024-04-19 12:20:06.835 [info] Settings: Updated last synchronized settings
+2024-04-19 12:20:06.837 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-19 12:20:06.844 [info] Keybindings: Updated last synchronized keybindings
+2024-04-19 12:20:06.845 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-19 12:20:06.852 [info] Snippets: Updated last synchronized snippets
+2024-04-19 12:20:06.852 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-19 12:20:06.859 [info] Tasks: Updated last synchronized tasks
+2024-04-19 12:20:06.875 [info] GlobalState: Updated locale.
+2024-04-19 12:20:06.875 [info] GlobalState: Updated locale
+2024-04-19 12:20:06.876 [info] GlobalState: Updated global state ["workbench.telemetryOptOutShown","workbench.statusbar.hidden","workbench.view.extensions.state.hidden","workbench.welcomePage.walkthroughMetadata","workbench.panel.alignment","terminal.integrated.showTerminalConfigPrompt","workbench.explorer.views.state.hidden","workbench.activityBar.location","colorThemeData","nps/lastSessionDate","cpp.1.lastSessionDate","java.2.lastSessionDate","javascript.1.lastSessionDate","typescript.1.lastSessionDate","csharp.1.lastSessionDate","memento/gettingStartedService"]
+2024-04-19 12:20:06.876 [info] GlobalState: Updated local ui state
+2024-04-19 12:20:06.996 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:06.996 [info] GlobalState: Last sync data state does not exist.
+2024-04-19 12:20:07.131 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2024-04-19 12:20:07.131 [info] GlobalState: Last sync data state does not exist.
+2024-04-19 12:20:07.351 [info] GlobalState: Updated remote ui state. Added: workbench.view.debug.state.hidden,encryption.migratedToGnomeLibsecret.
+2024-04-19 12:20:07.360 [info] GlobalState: Updated last synchronized ui state
+2024-04-19 12:20:17.672 [info] Extensions: Installed extension. sdras.night-owl 2.0.1
+2024-04-19 12:20:17.672 [info] Extensions: Installed extension. ms-ceintl.vscode-language-pack-ru 1.88.2024041009
+2024-04-19 12:20:17.672 [info] Extensions: Installed extension. ms-python.debugpy 2024.4.0
+2024-04-19 12:20:17.673 [info] Extensions: Installed extension. ms-python.python 2024.4.1
+2024-04-19 12:20:17.673 [info] Extensions: Installed extension. ms-python.vscode-pylance 2024.4.1
+2024-04-19 12:20:17.678 [info] Extensions: Updated last synchronized extensions.
+2024-04-19 12:20:17.682 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-19 12:20:17.688 [info] Profiles: Updated last synchronized profiles.
+2024-04-19 12:20:17.690 [info] Sync done. Took 12591ms
+2024-04-19 12:20:17.699 [info] Auto Sync: Triggered by Interval
+2024-04-19 12:20:17.699 [info] Sync started.
+2024-04-19 12:20:17.939 [info] Settings: No changes found during synchronizing settings.
+2024-04-19 12:20:17.942 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-19 12:20:17.945 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-19 12:20:17.947 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-19 12:20:18.615 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService.
+2024-04-19 12:20:18.624 [info] GlobalState: Updated last synchronized ui state
+2024-04-19 12:20:18.680 [info] Extensions: No changes found during synchronizing extensions.
+2024-04-19 12:20:18.682 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-19 12:20:18.685 [info] Sync done. Took 985ms
+2024-04-19 12:20:20.941 [info] Auto Sync: Triggered by Activity
+2024-04-19 12:20:20.941 [info] Sync started.
+2024-04-19 12:20:21.039 [info] Settings: No changes found during synchronizing settings.
+2024-04-19 12:20:21.044 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-19 12:20:21.047 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-19 12:20:21.049 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-19 12:20:21.586 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService,workbench.welcomePage.walkthroughMetadata.
+2024-04-19 12:20:21.595 [info] GlobalState: Updated last synchronized ui state
+2024-04-19 12:20:21.662 [info] Extensions: No changes found during synchronizing extensions.
+2024-04-19 12:20:21.663 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-19 12:20:21.664 [info] Sync done. Took 724ms

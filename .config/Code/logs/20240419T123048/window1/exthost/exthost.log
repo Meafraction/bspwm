@@ -1,0 +1,29 @@
+2024-04-19 12:30:49.871 [info] Extension host with pid 24841 started
+2024-04-19 12:30:49.871 [info] Skipping acquiring lock for /home/kemer/.config/Code/User/workspaceStorage/b57b8e3782a00beb104a7dc891f99cc0.
+2024-04-19 12:30:49.973 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-19 12:30:49.974 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-04-19 12:30:50.182 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 12:30:50.182 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-04-19 12:30:50.427 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-04-19 12:30:50.466 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-19 12:30:50.594 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-19 12:30:50.595 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-19 12:30:50.667 [info] Eager extensions activated
+2024-04-19 12:30:50.688 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-19 12:30:50.688 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-19 12:30:51.163 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-19 12:30:51.164 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-04-19 12:30:53.067 [error] [ms-python.python] provider FAILED
+2024-04-19 12:30:53.067 [error] Error: Request textDocument/codeAction failed with message: index is out of range
+	at ae (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2306827)
+	at oe (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2304787)
+	at Immediate.<anonymous> (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2301081)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-04-19 12:30:58.621 [error] [ms-python.python] provider FAILED
+2024-04-19 12:30:58.621 [error] Error: Request textDocument/codeAction failed with message: index is out of range
+	at ae (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2306827)
+	at oe (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2304787)
+	at Immediate.<anonymous> (/home/kemer/.vscode/extensions/ms-python.python-2024.4.1/out/client/extension.js:2:2301081)
+	at process.processImmediate (node:internal/timers:476:21)
+2024-04-19 12:31:23.569 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-19 12:31:23.610 [info] Extension host with pid 24841 exiting with code 0

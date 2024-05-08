@@ -1,0 +1,94 @@
+2024-04-19 12:23:06.067 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-19 12:23:06.556 [info] [Info  - 12:23:06 PM] (23661) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-19 12:23:06.556 [info] [Info  - 12:23:06 PM] (23661) Server root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-19 12:23:06.557 [info] [Info  - 12:23:06 PM] (23661) Starting service instance "MyFiles"
+2024-04-19 12:23:06.603 [info] [Info  - 12:23:06 PM] (23661) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:23:06.603 [info] [Info  - 12:23:06 PM] (23661) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:23:06.623 [info] [Info  - 12:23:06 PM] (23661) Assuming Python version 3.11.8.final.0
+2024-04-19 12:23:06.683 [info] [Info  - 12:23:06 PM] (23661) Found 1 source file
+2024-04-19 12:23:06.956 [info] [Info  - 12:23:06 PM] (23661) Background analysis(1) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-19 12:23:06.958 [info] [Info  - 12:23:06 PM] (23661) Background analysis(1) started
+2024-04-19 12:23:07.135 [info] [Info  - 12:23:07 PM] (23661) Indexer background runner(2) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:23:07.135 [info] [Info  - 12:23:07 PM] (23661) Indexing(2) started
+2024-04-19 12:23:07.446 [info] [Info  - 12:23:07 PM] (23661) scanned(2) 21 files over 1 exec env
+2024-04-19 12:23:08.432 [info] [Info  - 12:23:08 PM] (23661) indexed(2) 4 files over 1 exec env
+2024-04-19 12:23:08.507 [info] [Info  - 12:23:08 PM] (23661) Indexing finished(2).
+2024-04-19 12:24:06.499 [info] [Info  - 12:24:06 PM] Server process exited successfully
+2024-04-19 12:24:07.049 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-19 12:24:07.555 [info] [Info  - 12:24:07 PM] (23754) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-19 12:24:07.555 [info] [Info  - 12:24:07 PM] (23754) Server root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-19 12:24:07.561 [info] [Info  - 12:24:07 PM] (23754) Starting service instance "MyFiles"
+2024-04-19 12:24:07.594 [info] [Info  - 12:24:07 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:24:07.595 [info] [Info  - 12:24:07 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:24:07.619 [info] [Info  - 12:24:07 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:24:07.661 [info] [Info  - 12:24:07 PM] (23754) Found 1 source file
+2024-04-19 12:24:07.986 [info] [Info  - 12:24:07 PM] (23754) Background analysis(1) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-19 12:24:07.988 [info] [Info  - 12:24:07 PM] (23754) Background analysis(1) started
+2024-04-19 12:24:08.096 [info] [Info  - 12:24:08 PM] (23754) Indexer background runner(2) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:24:08.096 [info] [Info  - 12:24:08 PM] (23754) Indexing(2) started
+2024-04-19 12:24:08.383 [info] [Info  - 12:24:08 PM] (23754) scanned(2) 21 files over 1 exec env
+2024-04-19 12:24:09.018 [info] [Info  - 12:24:09 PM] (23754) indexed(2) 4 files over 1 exec env
+2024-04-19 12:24:09.086 [info] [Info  - 12:24:09 PM] (23754) Indexing finished(2).
+2024-04-19 12:25:48.494 [info] [Info  - 12:25:48 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:25:48.494 [info] [Info  - 12:25:48 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:25:48.523 [info] [Info  - 12:25:48 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:25:48.556 [info] [Info  - 12:25:48 PM] (23754) Found 1 source file
+2024-04-19 12:25:48.976 [info] [Info  - 12:25:48 PM] (23754) Indexer background runner(3) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:25:48.976 [info] [Info  - 12:25:48 PM] (23754) Indexing(3) started
+2024-04-19 12:25:49.257 [info] [Info  - 12:25:49 PM] (23754) scanned(3) 21 files over 1 exec env
+2024-04-19 12:25:49.895 [info] [Info  - 12:25:49 PM] (23754) indexed(3) 4 files over 1 exec env
+2024-04-19 12:25:49.965 [info] [Info  - 12:25:49 PM] (23754) Indexing finished(3).
+2024-04-19 12:25:50.650 [info] [Info  - 12:25:50 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:25:50.650 [info] [Info  - 12:25:50 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:25:50.669 [info] [Info  - 12:25:50 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:25:50.699 [info] [Info  - 12:25:50 PM] (23754) Found 1 source file
+2024-04-19 12:25:51.108 [info] [Info  - 12:25:51 PM] (23754) Indexer background runner(4) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:25:51.108 [info] [Info  - 12:25:51 PM] (23754) Indexing(4) started
+2024-04-19 12:25:51.386 [info] [Info  - 12:25:51 PM] (23754) scanned(4) 21 files over 1 exec env
+2024-04-19 12:25:52.008 [info] [Info  - 12:25:52 PM] (23754) indexed(4) 4 files over 1 exec env
+2024-04-19 12:25:52.070 [info] [Info  - 12:25:52 PM] (23754) Indexing finished(4).
+2024-04-19 12:25:52.087 [info] [Info  - 12:25:52 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:25:52.087 [info] [Info  - 12:25:52 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:25:52.110 [info] [Info  - 12:25:52 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:25:52.142 [info] [Info  - 12:25:52 PM] (23754) Found 1 source file
+2024-04-19 12:25:52.548 [info] [Info  - 12:25:52 PM] (23754) Indexer background runner(5) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:25:52.548 [info] [Info  - 12:25:52 PM] (23754) Indexing(5) started
+2024-04-19 12:25:52.827 [info] [Info  - 12:25:52 PM] (23754) scanned(5) 21 files over 1 exec env
+2024-04-19 12:25:53.457 [info] [Info  - 12:25:53 PM] (23754) indexed(5) 4 files over 1 exec env
+2024-04-19 12:25:53.526 [info] [Info  - 12:25:53 PM] (23754) Indexing finished(5).
+2024-04-19 12:26:22.778 [info] [Info  - 12:26:22 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:26:22.779 [info] [Info  - 12:26:22 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:26:22.805 [info] [Info  - 12:26:22 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:26:22.851 [info] [Info  - 12:26:22 PM] (23754) Found 1 source file
+2024-04-19 12:26:23.266 [info] [Info  - 12:26:23 PM] (23754) Indexer background runner(6) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:26:23.266 [info] [Info  - 12:26:23 PM] (23754) Indexing(6) started
+2024-04-19 12:26:23.550 [info] [Info  - 12:26:23 PM] (23754) scanned(6) 21 files over 1 exec env
+2024-04-19 12:26:24.193 [info] [Info  - 12:26:24 PM] (23754) indexed(6) 4 files over 1 exec env
+2024-04-19 12:26:24.260 [info] [Info  - 12:26:24 PM] (23754) Indexing finished(6).
+2024-04-19 12:26:27.006 [info] [Info  - 12:26:27 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:26:27.007 [info] [Info  - 12:26:27 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:26:27.030 [info] [Info  - 12:26:27 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:26:27.059 [info] [Info  - 12:26:27 PM] (23754) Found 1 source file
+2024-04-19 12:26:27.473 [info] [Info  - 12:26:27 PM] (23754) Indexer background runner(7) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:26:27.473 [info] [Info  - 12:26:27 PM] (23754) Indexing(7) started
+2024-04-19 12:26:27.750 [info] [Info  - 12:26:27 PM] (23754) scanned(7) 21 files over 1 exec env
+2024-04-19 12:26:28.373 [info] [Info  - 12:26:28 PM] (23754) indexed(7) 4 files over 1 exec env
+2024-04-19 12:26:28.440 [info] [Info  - 12:26:28 PM] (23754) Indexing finished(7).
+2024-04-19 12:26:36.729 [info] [Info  - 12:26:36 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:26:36.729 [info] [Info  - 12:26:36 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:26:36.749 [info] [Info  - 12:26:36 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:26:36.795 [info] [Info  - 12:26:36 PM] (23754) Found 1 source file
+2024-04-19 12:26:37.211 [info] [Info  - 12:26:37 PM] (23754) Indexer background runner(8) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:26:37.211 [info] [Info  - 12:26:37 PM] (23754) Indexing(8) started
+2024-04-19 12:26:37.491 [info] [Info  - 12:26:37 PM] (23754) scanned(8) 21 files over 1 exec env
+2024-04-19 12:26:38.121 [info] [Info  - 12:26:38 PM] (23754) indexed(8) 4 files over 1 exec env
+2024-04-19 12:26:38.189 [info] [Info  - 12:26:38 PM] (23754) Indexing finished(8).
+2024-04-19 12:26:39.010 [info] [Info  - 12:26:39 PM] (23754) Setting pythonPath for service "MyFiles": "/bin/python"
+2024-04-19 12:26:39.010 [info] [Info  - 12:26:39 PM] (23754) Setting environmentName for service "MyFiles": "3.11.8 (глобальная)"
+2024-04-19 12:26:39.048 [info] [Info  - 12:26:39 PM] (23754) Assuming Python version 3.11.8.final.0
+2024-04-19 12:26:39.077 [info] [Info  - 12:26:39 PM] (23754) Found 1 source file
+2024-04-19 12:26:39.502 [info] [Info  - 12:26:39 PM] (23754) Indexer background runner(9) root directory: file:///home/kemer/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-19 12:26:39.503 [info] [Info  - 12:26:39 PM] (23754) Indexing(9) started
+2024-04-19 12:26:39.782 [info] [Info  - 12:26:39 PM] (23754) scanned(9) 21 files over 1 exec env
+2024-04-19 12:26:40.413 [info] [Info  - 12:26:40 PM] (23754) indexed(9) 4 files over 1 exec env
+2024-04-19 12:26:40.453 [info] [Info  - 12:26:40 PM] (23754) Indexing finished(9).

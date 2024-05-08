@@ -1,0 +1,28 @@
+2024-04-19 12:29:50.100 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2024-04-19 12:29:50.100 [info] Auto Sync is enabled.
+2024-04-19 12:29:50.100 [info] Auto Sync: Suspended until auth token is available.
+2024-04-19 12:29:50.450 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/extensions
+2024-04-19 12:29:50.721 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/globalState
+2024-04-19 12:29:50.877 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/keybindings
+2024-04-19 12:29:50.942 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/profiles
+2024-04-19 12:29:50.954 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/settings
+2024-04-19 12:29:50.955 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/snippets
+2024-04-19 12:29:50.955 [info] Deleting non existing profile from backup /home/kemer/.config/Code/User/sync/tasks
+2024-04-19 12:29:51.009 [info] Auto Sync: Triggered by Interval
+2024-04-19 12:29:51.009 [info] Sync started.
+2024-04-19 12:29:51.467 [info] Settings: Last sync resource does not exist locally.
+2024-04-19 12:29:51.575 [info] Settings: No changes found during synchronizing settings.
+2024-04-19 12:29:51.577 [info] Keybindings: Last sync resource does not exist locally.
+2024-04-19 12:29:51.667 [info] Keybindings: No changes found during synchronizing keybindings.
+2024-04-19 12:29:51.669 [info] Snippets: Last sync resource does not exist locally.
+2024-04-19 12:29:51.765 [info] Snippets: No changes found during synchronizing snippets.
+2024-04-19 12:29:51.766 [info] Tasks: Last sync resource does not exist locally.
+2024-04-19 12:29:51.841 [info] Tasks: No changes found during synchronizing tasks.
+2024-04-19 12:29:51.843 [info] GlobalState: Last sync resource does not exist locally.
+2024-04-19 12:29:52.695 [info] GlobalState: Updated remote ui state. Added: commandPalette.mru.cache,commandPalette.mru.counter.
+2024-04-19 12:29:52.703 [info] GlobalState: Updated last synchronized ui state
+2024-04-19 12:29:52.705 [info] Extensions: Last sync resource does not exist locally.
+2024-04-19 12:29:52.851 [info] Extensions: No changes found during synchronizing extensions.
+2024-04-19 12:29:52.853 [info] Profiles: Last sync resource does not exist locally.
+2024-04-19 12:29:52.940 [info] Profiles: No changes found during synchronizing profiles.
+2024-04-19 12:29:52.943 [info] Sync done. Took 1933ms

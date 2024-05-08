@@ -1,0 +1,17 @@
+2024-04-19 12:29:51.115 [info] Уровень ведения журнала: Info
+2024-04-19 12:29:51.115 [info] Проверка найденного Git в: "git"
+2024-04-19 12:29:51.115 [info] Используется Git "2.44.0" из "git"
+2024-04-19 12:29:51.115 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-19 12:29:51.115 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-19 12:29:51.115 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-19 12:29:51.115 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-19 12:29:51.116 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-19 12:29:51.116 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-19 12:29:52.076 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-19 12:29:52.076 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-19 12:30:14.071 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-19 12:30:14.071 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-19 12:30:28.177 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-19 12:30:28.177 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-19 12:30:37.210 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-19 12:30:37.210 [info] fatal: not a git repository (or any of the parent directories): .git
